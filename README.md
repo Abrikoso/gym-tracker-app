@@ -1,2 +1,3 @@
-# gym-tracker-app
-Static Gym Tracker PWA. Workout records are private in Supabase.
+# Gym Tracker
+
+Static PWA distribution. Personal workout records are stored in Supabase behind authentication and row-level security. No workout history or privileged keys are included.
